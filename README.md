@@ -22,7 +22,11 @@ la structure du projet et comme suite :
 ## <u>**Vidéo démonstrative des fonctionnalités implémentées **</u>
 
 
-https://github.com/ayouboifikEnsaj/Tp_JSF/assets/107751911/f9dfba15-18ad-456b-a10e-4cddef1bca39
+
+
+https://github.com/ayouboifikEnsaj/Tp_JSF/assets/107751911/a99d63e5-212b-491c-bd9b-f2bfe6e90b58
+
+
 
 
 ## <u>**Les Technologies Utilisées**</u>
