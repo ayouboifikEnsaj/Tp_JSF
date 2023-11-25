@@ -24,7 +24,11 @@ la structure du projet et comme suite :
 
 
 
-https://github.com/ayouboifikEnsaj/Tp_JSF/assets/107751911/a99d63e5-212b-491c-bd9b-f2bfe6e90b58
+
+
+
+https://github.com/ayouboifikEnsaj/Tp_JSF/assets/107751911/8fbe0f83-81d6-421a-8e3e-4c3896f0bb94
+
 
 
 
